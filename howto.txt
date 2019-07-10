@@ -1,0 +1,3 @@
+Install:
+powershell.exe -executionPolicy bypass -file .\RunVirtual.ps1 -Inifile RunVirtual_product.ini
+
