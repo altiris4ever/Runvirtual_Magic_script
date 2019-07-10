@@ -1,2 +1,2 @@
 # Runvirtual_Magic_script
-Script for automating Runvirtual in APPV
+Powershell script for automating App-V's Runvirtual function
