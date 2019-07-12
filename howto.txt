@@ -1,3 +1,6 @@
 Install:
-powershell.exe -executionPolicy bypass -file .\RunVirtual.ps1 -Inifile RunVirtual_product.ini
+powershell.exe -executionPolicy bypass -file .\runvirtual.ps1 -inifile "RunVirtual_product.ini" -Rule "IngenRule" -Serverini "c:\folder\runvirtual_product.ini"
+
+REM c:\folder\ could be replaced with \\share\folder\runvirtual**.ini 
+
 
