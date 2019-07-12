@@ -1,0 +1,1 @@
+powershell.exe -executionPolicy bypass -file .\runvirtual.ps1 -inifile "RunVirtual_product.ini" -Rule "IngenRule" -Serverini "c:\temp\runvirtual_product.ini"
